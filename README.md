@@ -4,7 +4,7 @@
 
 #### Algorithmic vectorial art
 
-This program is intended to generate artistic pentagram disposition for music composition.
+This program is intended to generate artistic pentagram disposition for music composition. (See samples below.)
 
 It is also used for pure visual fine-art.
 
