@@ -1,7 +1,7 @@
 //
 // u-pentagram - simple
 // by fde-capu
-// Simple stright version.
+// Simple streight version.
 //
 
 size(28.0cm);
